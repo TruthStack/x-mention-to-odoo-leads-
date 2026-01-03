@@ -1,0 +1,5 @@
+# Core HTTP client (used when switching to live X API)
+requests>=2.31.0
+
+# Testing (optional but professional)
+pytest>=7.4.0
